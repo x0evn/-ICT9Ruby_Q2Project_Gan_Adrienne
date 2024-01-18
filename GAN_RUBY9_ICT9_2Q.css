@@ -1,0 +1,62 @@
+body{
+	background-image: url(manila.jpg);
+}
+
+div {
+	color: white;
+	padding: 20px;
+	margin: 40px;
+	width:90%;
+
+	text-align: center;
+
+	
+
+}
+
+.heading1 {
+	color: white;
+	padding: 20px;
+	margin: 40px;
+	width:40%;
+
+	text-align: center;
+}
+
+
+
+h1 {
+	text-align: center;
+}
+
+
+#red {
+	background-color: gray;
+
+
+
+}
+
+#green {
+	background-color: steelblue;
+	padding: 20px;
+	margin: 40px;
+	width: 90%;
+}
+
+
+#orange {
+	background-color: wheat;
+	padding: 20px;
+	margin: 40px;
+	width: 90%;
+}
+
+#blue {
+	background-color: powderblue;
+	padding: 20px;
+	margin: 40px;
+	width: 90%;
+
+
+
